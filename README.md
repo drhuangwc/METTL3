@@ -11,9 +11,9 @@ RNA modifications are critical in regulating gene expression and cell functions 
 ## Keywords: 
 Human methyltransferase-like 3 (METTL3), Machine learning; Feature selection, Protein-ligand docking, The docking-based protein-ligand interaction features (DPLIFE)
 ## Highlights: 
-*	The present work presented the first model for predicting EC50 of the methyltransferase-like 3-ligand pairs. The presented explainable model is expected to be a useful tool for drug development of the methyltransferase-like 3 and the method is applicable for the drug discovery of other drug targets.
+*	The present work presented the first model for predicting EC50 of the METTL3-ligand pairs. The presented explainable model is expected to be a useful tool for drug development of the METTL3 and the method is applicable for the drug discovery of other drug targets.
 *	A novel docking-based protein-ligand interaction profile feature was encoded and integrated with structural features to improve accuracy and provide a novel way to identify the key residues for the methyltransferase-like 3 inhibitor discovery. 
-*	The identified key residues are mutually consistent and supported by previous studies, further validating their critical role in the inhibition of the methyltransferase-like 3.
+*	The identified key residues are mutually consistent and supported by previous studies, further validating their critical role in the inhibition of the METTL3.
 
 
 <img width="523" alt="image" src="https://github.com/user-attachments/assets/7d2bb570-c17c-4f92-b85f-de565e35d889" />
