@@ -14,6 +14,8 @@ Highlights:
 *	A novel docking-based protein-ligand interaction profile feature was encoded and integrated with structural features to improve accuracy and provide a novel way to identify the key residues for the methyltransferase-like 3 inhibitor discovery. 
 *	The identified key residues are mutually consistent and supported by previous studies, further validating their critical role in the inhibition of the methyltransferase-like 3.
 
+
 <img width="523" alt="image" src="https://github.com/user-attachments/assets/7d2bb570-c17c-4f92-b85f-de565e35d889" />
-Flowchart of the stacked ensemble model development for the METTL3 bioactivities using 186 docking-based protein-ligand interaction features (DPLIFE), 1,024-bit chemical fingerprint (ECFP), and 1,444 physicochemical features.
+
+Figure. Flowchart of the stacked ensemble model development for the METTL3 bioactivities using 186 docking-based protein-ligand interaction features (DPLIFE), 1,024-bit chemical fingerprint (ECFP), and 1,444 physicochemical features.
 
